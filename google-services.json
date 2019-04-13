@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "941990037304",
+    "firebase_url": "https://cryptickchat.firebaseio.com",
+    "project_id": "cryptickchat",
+    "storage_bucket": "cryptickchat.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:941990037304:android:9eca593802c3624d",
+        "android_client_info": {
+          "package_name": "cryptick.firebaseandroid"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "941990037304-r2ftpo9ako5f0itf6vupph2g7ijpv03b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDXET9Djgj9lm3hvzhdy3Oz10FIbWsOUCg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

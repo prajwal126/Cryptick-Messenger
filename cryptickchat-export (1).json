@@ -1,0 +1,383 @@
+{
+  "Chat" : {
+    "Zyj1IUA1W1PSHF9fIRHjrhbWctI3" : {
+      "fezTQKTuxROMk2pylEAhFOa0Wbk1" : {
+        "seen" : false,
+        "timestamp" : 1511455826943
+      }
+    },
+    "fezTQKTuxROMk2pylEAhFOa0Wbk1" : {
+      "Zyj1IUA1W1PSHF9fIRHjrhbWctI3" : {
+        "seen" : false,
+        "timestamp" : 1511455826943
+      }
+    }
+  },
+  "Friends" : {
+    "Zyj1IUA1W1PSHF9fIRHjrhbWctI3" : {
+      "fezTQKTuxROMk2pylEAhFOa0Wbk1" : {
+        "date" : "Nov 23, 2017 10:20:22 PM"
+      }
+    },
+    "fezTQKTuxROMk2pylEAhFOa0Wbk1" : {
+      "Zyj1IUA1W1PSHF9fIRHjrhbWctI3" : {
+        "date" : "Nov 23, 2017 10:20:22 PM"
+      }
+    }
+  },
+  "Users" : {
+    "Zyj1IUA1W1PSHF9fIRHjrhbWctI3" : {
+      "device_token" : "dcOCSaCw9PI:APA91bHwLi1G3Rv4FIdDvIHN68mKrF2f9_K28mnotU7F46Rq7tfDuFJMxjK4buicodxkB-K556hDJhpfoh_wRq-mnEp6gqgfdlXXV5SvR22Aqhv1NwPnoUAJzKjtPlEue2_DcKZB6Apw",
+      "image" : "https://firebasestorage.googleapis.com/v0/b/cryptickchat.appspot.com/o/profile_images%2FZyj1IUA1W1PSHF9fIRHjrhbWctI3.jpg?alt=media&token=49f4604d-5b12-472b-94f5-9d1407545c03",
+      "name" : "prajwal",
+      "online" : 1511878252299,
+      "status" : "Swaggy",
+      "thumb_image" : "https://firebasestorage.googleapis.com/v0/b/cryptickchat.appspot.com/o/profile_images%2Fthumbs%2FZyj1IUA1W1PSHF9fIRHjrhbWctI3.jpg?alt=media&token=bececde1-56bc-46e2-b6d5-0e3214390c53",
+      "tickBal" : 196
+    },
+    "fezTQKTuxROMk2pylEAhFOa0Wbk1" : {
+      "device_token" : "fLtOPZ98dk0:APA91bHPmpKiu3WsHKumES-ORTMu2LSPBbg83HDY4Of6P99sf52g9AMQy6zKSov4QEeGKLzC4O2--QNk15RRUD0xpqDhpU2svkIfcHlsDa-r0hUs7QyjUgH2aWftUL4WnjiEzOaDLPBE",
+      "image" : "default",
+      "name" : "prashanth",
+      "online" : 1511543108339,
+      "status" : "Hi there I'm using Lapit Chat App.",
+      "thumb_image" : "default",
+      "tickBal" : 100
+    }
+  },
+  "chatmodel" : {
+    "-KzisgBRPqjby6Rjui68" : {
+      "id" : "fezTQKTuxROMk2pylEAhFOa0Wbk1",
+      "message" : "tfqktkOURVUZ5hZmJqtxWw==",
+      "timeStamp" : "1511627731379"
+    }
+  },
+  "messages" : {
+    "Zyj1IUA1W1PSHF9fIRHjrhbWctI3" : {
+      "Zyj1IUA1W1PSHF9fIRHjrhbWctI3" : {
+        "-KzyDyTbiS0AEKtY7Wo4" : {
+          "from" : "Zyj1IUA1W1PSHF9fIRHjrhbWctI3",
+          "message" : "",
+          "seen" : false,
+          "time" : 0,
+          "type" : "text"
+        },
+        "-KzyGIUvIVVmokGfruOo" : {
+          "from" : "Zyj1IUA1W1PSHF9fIRHjrhbWctI3",
+          "message" : "",
+          "seen" : false,
+          "time" : 0,
+          "type" : "text"
+        }
+      },
+      "fezTQKTuxROMk2pylEAhFOa0Wbk1" : {
+        "-KzdmQbcUU_w74tILySc" : {
+          "from" : "Zyj1IUA1W1PSHF9fIRHjrhbWctI3",
+          "message" : "hello",
+          "seen" : false,
+          "time" : 1511455832864,
+          "type" : "text"
+        },
+        "-Kzdu5vcvaZYXIJIN3it" : {
+          "from" : "Zyj1IUA1W1PSHF9fIRHjrhbWctI3",
+          "message" : "1o+YfoExm4zCb/IgFHSjLQ==",
+          "seen" : false,
+          "time" : 1511457845465,
+          "type" : "text"
+        },
+        "-Kzdwz3O4TBNGP74av8R" : {
+          "from" : "fezTQKTuxROMk2pylEAhFOa0Wbk1",
+          "message" : "bro",
+          "seen" : false,
+          "time" : 1511458604261,
+          "type" : "text"
+        },
+        "-KzdxmyizcT7Huo6peFo" : {
+          "from" : "fezTQKTuxROMk2pylEAhFOa0Wbk1",
+          "message" : "😀",
+          "seen" : false,
+          "time" : 1511458816855,
+          "type" : "text"
+        },
+        "-Kze69PR9oBdNtLTOR4z" : {
+          "from" : "fezTQKTuxROMk2pylEAhFOa0Wbk1",
+          "message" : "https://firebasestorage.googleapis.com/v0/b/cryptickchat.appspot.com/o/message_images%2F-Kze69PR9oBdNtLTOR4z.jpg?alt=media&token=7a00b568-ca4e-41d3-a29f-a72afd50978d",
+          "seen" : false,
+          "time" : 1511461286896,
+          "type" : "image"
+        },
+        "-KzixDUtvQBGdUu1m6yd" : {
+          "from" : "fezTQKTuxROMk2pylEAhFOa0Wbk1",
+          "message" : "nRoqxoIWXR5/f69F5By8HA==",
+          "seen" : false,
+          "time" : 1511542548811,
+          "type" : "text"
+        },
+        "-KzixHQ0ZHsSdgTW6MvB" : {
+          "from" : "fezTQKTuxROMk2pylEAhFOa0Wbk1",
+          "message" : "hello123",
+          "seen" : false,
+          "time" : 1511542564875,
+          "type" : "text"
+        },
+        "-Kzy2uDhVXIBbPwcLclv" : {
+          "from" : "Zyj1IUA1W1PSHF9fIRHjrhbWctI3",
+          "message" : "WM5Uf5HOKCszrx2sV4QX2Q==",
+          "seen" : false,
+          "time" : 1511882336232,
+          "type" : "text"
+        },
+        "-KzyCPfAufSPoGXChMjJ" : {
+          "from" : "Zyj1IUA1W1PSHF9fIRHjrhbWctI3",
+          "message" : "hi",
+          "seen" : false,
+          "time" : 1511798451192,
+          "type" : "text"
+        },
+        "-KzyGbP71gfujci5OE6p" : {
+          "from" : "Zyj1IUA1W1PSHF9fIRHjrhbWctI3",
+          "message" : "hello",
+          "seen" : false,
+          "time" : 0,
+          "type" : "text"
+        },
+        "-KzyJ1Jxe1VPMTe_B6Qs" : {
+          "from" : "Zyj1IUA1W1PSHF9fIRHjrhbWctI3",
+          "message" : "ol6lgGovgJomq4QGS6hThA==",
+          "seen" : false,
+          "time" : 1511800167416,
+          "type" : "text"
+        },
+        "-KzyJNE8E_vHIYvxc3aY" : {
+          "from" : "Zyj1IUA1W1PSHF9fIRHjrhbWctI3",
+          "message" : "ol6lgGovgJomq4QGS6hThA==",
+          "seen" : false,
+          "time" : 1511800250312,
+          "type" : "text"
+        },
+        "-KzyJUNAhDpKFPMN87wj" : {
+          "from" : "Zyj1IUA1W1PSHF9fIRHjrhbWctI3",
+          "message" : "ol6lgGovgJomq4QGS6hThA==",
+          "seen" : false,
+          "time" : 1511886687089,
+          "type" : "text"
+        },
+        "-KzyJin4akgxuAqgEVwA" : {
+          "from" : "Zyj1IUA1W1PSHF9fIRHjrhbWctI3",
+          "message" : "VdlNFiXvcBnHSRQimcErSQ==",
+          "seen" : false,
+          "time" : 1511886749309,
+          "type" : "text"
+        },
+        "-KzyJrYxzKi5Y9RWoAQ6" : {
+          "from" : "Zyj1IUA1W1PSHF9fIRHjrhbWctI3",
+          "message" : "M5JfgcQvCRVm+0Gfj6dIAA==",
+          "seen" : false,
+          "time" : 1511886784811,
+          "type" : "text"
+        },
+        "-KzyKJb6O1_VUhefiqTn" : {
+          "from" : "Zyj1IUA1W1PSHF9fIRHjrhbWctI3",
+          "message" : "1hcly/50RCoJG9S43cxVAQ==",
+          "seen" : false,
+          "time" : 1511886903813,
+          "type" : "text"
+        },
+        "-KzyKX048uO70Jc0tLj_" : {
+          "from" : "Zyj1IUA1W1PSHF9fIRHjrhbWctI3",
+          "message" : "",
+          "seen" : false,
+          "time" : 0,
+          "type" : "text"
+        },
+        "-KzyKnLY7lfPb-Er8BkJ" : {
+          "from" : "Zyj1IUA1W1PSHF9fIRHjrhbWctI3",
+          "message" : "not enc",
+          "seen" : false,
+          "time" : 0,
+          "type" : "text"
+        },
+        "-KzyKrOy67FNFlvIMfmo" : {
+          "from" : "Zyj1IUA1W1PSHF9fIRHjrhbWctI3",
+          "message" : "lY81mnGXugkY62/3AdWx7w==",
+          "seen" : false,
+          "time" : 1511887047350,
+          "type" : "text"
+        },
+        "-L-1tqUikhIxE0NBf9yl" : {
+          "from" : "Zyj1IUA1W1PSHF9fIRHjrhbWctI3",
+          "message" : "KRN2J8dgCIWrk9durb2IjA==",
+          "seen" : false,
+          "time" : 1511963576801,
+          "type" : "text"
+        },
+        "-L-1vVjbKbLXIQZwkm5v" : {
+          "from" : "Zyj1IUA1W1PSHF9fIRHjrhbWctI3",
+          "message" : "iDzReHPA+YwEjXNXGOq7BA==",
+          "seen" : false,
+          "time" : 1511964011796,
+          "type" : "text"
+        }
+      }
+    },
+    "fezTQKTuxROMk2pylEAhFOa0Wbk1" : {
+      "Zyj1IUA1W1PSHF9fIRHjrhbWctI3" : {
+        "-KzdmQbcUU_w74tILySc" : {
+          "from" : "Zyj1IUA1W1PSHF9fIRHjrhbWctI3",
+          "message" : "hello",
+          "seen" : false,
+          "time" : 1511455832864,
+          "type" : "text"
+        },
+        "-Kzdu5vcvaZYXIJIN3it" : {
+          "from" : "Zyj1IUA1W1PSHF9fIRHjrhbWctI3",
+          "message" : "1o+YfoExm4zCb/IgFHSjLQ==",
+          "seen" : false,
+          "time" : 1511457845465,
+          "type" : "text"
+        },
+        "-Kzdwz3O4TBNGP74av8R" : {
+          "from" : "fezTQKTuxROMk2pylEAhFOa0Wbk1",
+          "message" : "bro",
+          "seen" : false,
+          "time" : 1511458604261,
+          "type" : "text"
+        },
+        "-KzdxmyizcT7Huo6peFo" : {
+          "from" : "fezTQKTuxROMk2pylEAhFOa0Wbk1",
+          "message" : "😀",
+          "seen" : false,
+          "time" : 1511458816855,
+          "type" : "text"
+        },
+        "-Kze69PR9oBdNtLTOR4z" : {
+          "from" : "fezTQKTuxROMk2pylEAhFOa0Wbk1",
+          "message" : "https://firebasestorage.googleapis.com/v0/b/cryptickchat.appspot.com/o/message_images%2F-Kze69PR9oBdNtLTOR4z.jpg?alt=media&token=7a00b568-ca4e-41d3-a29f-a72afd50978d",
+          "seen" : false,
+          "time" : 1511461286896,
+          "type" : "image"
+        },
+        "-KzixDUtvQBGdUu1m6yd" : {
+          "from" : "fezTQKTuxROMk2pylEAhFOa0Wbk1",
+          "message" : "nRoqxoIWXR5/f69F5By8HA==",
+          "seen" : false,
+          "time" : 1511542548811,
+          "type" : "text"
+        },
+        "-KzixHQ0ZHsSdgTW6MvB" : {
+          "from" : "fezTQKTuxROMk2pylEAhFOa0Wbk1",
+          "message" : "hello123",
+          "seen" : false,
+          "time" : 1511542564875,
+          "type" : "text"
+        },
+        "-Kzy2uDhVXIBbPwcLclv" : {
+          "from" : "Zyj1IUA1W1PSHF9fIRHjrhbWctI3",
+          "message" : "WM5Uf5HOKCszrx2sV4QX2Q==",
+          "seen" : false,
+          "time" : 1511882336232,
+          "type" : "text"
+        },
+        "-KzyCPfAufSPoGXChMjJ" : {
+          "from" : "Zyj1IUA1W1PSHF9fIRHjrhbWctI3",
+          "message" : "hi",
+          "seen" : false,
+          "time" : 1511798451192,
+          "type" : "text"
+        },
+        "-KzyGbP71gfujci5OE6p" : {
+          "from" : "Zyj1IUA1W1PSHF9fIRHjrhbWctI3",
+          "message" : "hello",
+          "seen" : false,
+          "time" : 0,
+          "type" : "text"
+        },
+        "-KzyJ1Jxe1VPMTe_B6Qs" : {
+          "from" : "Zyj1IUA1W1PSHF9fIRHjrhbWctI3",
+          "message" : "ol6lgGovgJomq4QGS6hThA==",
+          "seen" : false,
+          "time" : 1511800167416,
+          "type" : "text"
+        },
+        "-KzyJNE8E_vHIYvxc3aY" : {
+          "from" : "Zyj1IUA1W1PSHF9fIRHjrhbWctI3",
+          "message" : "ol6lgGovgJomq4QGS6hThA==",
+          "seen" : false,
+          "time" : 1511800250312,
+          "type" : "text"
+        },
+        "-KzyJUNAhDpKFPMN87wj" : {
+          "from" : "Zyj1IUA1W1PSHF9fIRHjrhbWctI3",
+          "message" : "ol6lgGovgJomq4QGS6hThA==",
+          "seen" : false,
+          "time" : 1511886687089,
+          "type" : "text"
+        },
+        "-KzyJin4akgxuAqgEVwA" : {
+          "from" : "Zyj1IUA1W1PSHF9fIRHjrhbWctI3",
+          "message" : "VdlNFiXvcBnHSRQimcErSQ==",
+          "seen" : false,
+          "time" : 1511886749309,
+          "type" : "text"
+        },
+        "-KzyJrYxzKi5Y9RWoAQ6" : {
+          "from" : "Zyj1IUA1W1PSHF9fIRHjrhbWctI3",
+          "message" : "M5JfgcQvCRVm+0Gfj6dIAA==",
+          "seen" : false,
+          "time" : 1511886784811,
+          "type" : "text"
+        },
+        "-KzyKJb6O1_VUhefiqTn" : {
+          "from" : "Zyj1IUA1W1PSHF9fIRHjrhbWctI3",
+          "message" : "1hcly/50RCoJG9S43cxVAQ==",
+          "seen" : false,
+          "time" : 1511886903813,
+          "type" : "text"
+        },
+        "-KzyKZSGJpnyBVONgKuf" : {
+          "from" : "Zyj1IUA1W1PSHF9fIRHjrhbWctI3",
+          "message" : "",
+          "seen" : false,
+          "time" : 0,
+          "type" : "text"
+        },
+        "-KzyKnLY7lfPb-Er8BkJ" : {
+          "from" : "Zyj1IUA1W1PSHF9fIRHjrhbWctI3",
+          "message" : "not enc",
+          "seen" : false,
+          "time" : 0,
+          "type" : "text"
+        },
+        "-KzyKrOy67FNFlvIMfmo" : {
+          "from" : "Zyj1IUA1W1PSHF9fIRHjrhbWctI3",
+          "message" : "lY81mnGXugkY62/3AdWx7w==",
+          "seen" : false,
+          "time" : 1511887047350,
+          "type" : "text"
+        },
+        "-L-1tqUikhIxE0NBf9yl" : {
+          "from" : "Zyj1IUA1W1PSHF9fIRHjrhbWctI3",
+          "message" : "KRN2J8dgCIWrk9durb2IjA==",
+          "seen" : false,
+          "time" : 1511963576801,
+          "type" : "text"
+        },
+        "-L-1vVjbKbLXIQZwkm5v" : {
+          "from" : "Zyj1IUA1W1PSHF9fIRHjrhbWctI3",
+          "message" : "iDzReHPA+YwEjXNXGOq7BA==",
+          "seen" : false,
+          "time" : 1511964011796,
+          "type" : "text"
+        }
+      }
+    }
+  },
+  "notifications" : {
+    "Zyj1IUA1W1PSHF9fIRHjrhbWctI3" : {
+      "-KzdmGUlIfM4WnRWIpz5" : {
+        "from" : "fezTQKTuxROMk2pylEAhFOa0Wbk1",
+        "type" : "request"
+      }
+    }
+  }
+}

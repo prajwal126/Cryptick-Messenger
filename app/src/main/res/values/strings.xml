@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Cryptick Messenger</string>
+    <string name="need_a_new_account">NEED A NEW ACCOUNT ?</string>
+    <string name="display_name">Display Name</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="create_account">CREATE ACCOUNT</string>
+    <string name="log_out">Log Out</string>
+    <string name="tick_dialog">Are you sure you want to use a tick?</string>
+    <string name="tick_dialog_message">Use a tick to view this message now! Remaining: </string>
+
+    <string name="no_tick">Sorry you are out of ticks!</string>
+    <string name="buy_tick">Buy ticks from the Store</string>
+    <string name="buy_ticks">Select number of ticks to buy</string>s
+    <string name="are_you_sure">Are you sure you want to buy?</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="default_status">Hi there, I\'m using Cryptick Chat App</string>
+    <string name="buy">BUY</string>
+    <string name="ok">OK</string>
+    <string name="cancel">Cancel</string>
+</resources>
