@@ -1,2 +1,2 @@
-# Android-Applications
-A whole bunch of apps I've developed during college or at work!
+# Cryptick Messenger
+An Android Messaging App with some special features!
